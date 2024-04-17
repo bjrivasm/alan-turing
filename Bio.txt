@@ -1,2 +1,3 @@
 Alan Turing
 Alan Mathison Turing fue un matemático, lógico, informático teórico, criptógrafo, filósofo y biólogo teórico británico. Es considerado como uno de los padres de la ciencia de la computación y precursor de la informática moderna.
+Formuló su propia versión que hoy es ampliamente aceptada como la tesis de Church-Turing (1936).
